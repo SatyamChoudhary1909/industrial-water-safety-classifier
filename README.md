@@ -74,7 +74,8 @@ pip install -r requirements.txt
 # Run Jupyter Notebook
 jupyter notebook water-quality-classifier.ipynb
 ```
-Contributor's Repo:-(https://github.com/pushkar1887/industrial-water-safety-classifier)
+Contributor's Repo:-[Pushkar's Arora](https://github.com/pushkar1887/industrial-water-safety-classifier)
+
 🔗 Connect
 📬 Author: Pushkar Arora, Satyam Choudhary
 - [Pushkar's Github](https://github.com/pushkar1887)
